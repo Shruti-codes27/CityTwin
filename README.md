@@ -9,13 +9,12 @@ CityTwin: AI-Powered Urban Disaster Simulation and Smart Evacuation System
 Overview: CityTwin is an AI-powered platform that creates a 2D and 3D digital map of a real city like Mumbai. It simulates disasters such as floods, earthquakes, and tsunamis, helps users find safer evacuation routes, locates nearby hospitals and shelters with contact details, and provides emergency guidance through an AI chatbot. Its goal is to help people make faster, safer decisions during disasters.
 
 🛠️ Tech Stack
-Technology	Purpose
-React + Vite	Interactive frontend and dashboard
-Leaflet + OpenStreetMap	Real-world 2D city map
-MapLibre GL JS	3D city visualization
-Python + FastAPI	Backend and API development
-AI/ML (Python)	Hazard analysis and risk estimation
-LLM API	AI emergency chatbot
-GeoJSON + GeoPandas	Geographic data and hazard zones
-PostgreSQL + PostGIS	Store and query geographic data
-OpenStreetMap road data + routing algorithm	Evacuation route planning
+1. React + Vite	Interactive frontend and dashboard
+2. Leaflet + OpenStreetMap	Real-world 2D city map
+3. MapLibre GL JS	3D city visualization
+4. Python + FastAPI	Backend and API development
+5. AI/ML (Python)	Hazard analysis and risk estimation
+6. LLM API	AI emergency chatbot
+7. GeoJSON + GeoPandas	Geographic data and hazard zones
+8. PostgreSQL + PostGIS	Store and query geographic data
+9. OpenStreetMap road data + routing algorithm	Evacuation route planning
